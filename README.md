@@ -1,7 +1,8 @@
 
 # ListDrive
 
-This is part of batch extensions. A collection of utilities I am working on that can be used to make the cmd better.  
+List all drives that can be accessed from the windows command line, plus various pieces of information about them.  
+Part of BatchExtensions [Trello](https://trello.com/b/4J5sT1MN/batchextensions)
 
 ## Usage
 
